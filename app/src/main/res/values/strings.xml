@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab-28-Vasilev-403-ApiSpectr</string>
+    <string name="txtElement">Element</string>
+    <string name="butplus">+</string>
+    <string name="butminus">-</string>
+    <string name="ButLoad">Load</string>
+</resources>
